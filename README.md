@@ -4,7 +4,7 @@
 [![Donate with PayPal to the original creator](https://img.shields.io/badge/paypal-donate-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SAM6C6DQRDBAE)
 [![Twitter of the original creator](https://img.shields.io/twitter/follow/deeppomf.svg?label=Follow&style=social)](https://twitter.com/deeppomf/)
 
-## Usage: Simply download `Colab-DeepCreamPy-2.0.ipynb` and open it inside your Google Drive or click [here](https://colab.research.google.com/github/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.0.ipynb) and copy the file with "File > Save a copy to Drive..." into your Google Drive.
+## Usage: Simply download `Colab-DeepCreamPy-2.2.ipynb` and open it inside your Google Drive or click [here](https://colab.research.google.com/github/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.2.ipynb) and copy the file with "File > Save a copy to Drive..." into your Google Drive.
 
 # Info about Colab-DeepCreamPy
 This master is not the newest version of DeepCreamPy because apperantly the decensor.py does not work out of the box with 2.2 and there is no GUI in Colab. This shouldn't matter, since the used model is uptodate.
