@@ -1,8 +1,5 @@
 # Colab-DeepCreamPy
-*Decensoring Hentai with Deep Neural Networks. The below links will support deeppomf, the mastermind of DeepCreamPy.*
-
-[![Donate with PayPal to the original creator](https://img.shields.io/badge/paypal-donate-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SAM6C6DQRDBAE)
-[![Twitter of the original creator](https://img.shields.io/twitter/follow/deeppomf.svg?label=Follow&style=social)](https://twitter.com/deeppomf/)
+Originally made by deeppomf.
 
 ## Usage: Simply download `Colab-DeepCreamPy-2.2.ipynb` and open it inside your Google Drive or click [here](https://colab.research.google.com/github/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.2.ipynb) and copy the file with "File > Save a copy to Drive..." into your Google Drive.
 
@@ -54,6 +51,3 @@ Neural network code is modified from Forty-lock's project [PEPSI](https://github
 Training data is modified from gwern's project [Danbooru2017: A Large-Scale Crowdsourced and Tagged Anime Illustration Dataset](https://www.gwern.net/Danbooru2017) and other sources.
 
 See [ACKNOWLEDGEMENTS.md](docs/ACKNOWLEDGEMENTS.md) for full license text of these projects.
-
-## Donations
-You can donate to the creator of DeepCreamPy via Paypal. [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SAM6C6DQRDBAE)
